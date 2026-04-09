@@ -1,6 +1,6 @@
 ## 📖 Reference & More Information
 
-For more detailed information, theoretical background, and comprehensive analyses regarding this project, please refer to our published paper in *Process Safety and Environmental Protection*:
+For more detailed data and information, theoretical background, and comprehensive analyses regarding this project, please refer to our published paper in *Process Safety and Environmental Protection*:
 
 > **Interpretable artificial intelligence for advanced oxidation systems: Principle, operations and performance** > Zhi Huang, Jiang Yu, Xiao Shao, Yinying Jiang, Jie Yu, Siwei Deng, Peirou Li  
 > *Process Safety and Environmental Protection*, Volume 180, Pages 242-259, 2023.
